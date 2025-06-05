@@ -19,6 +19,7 @@ public class Projectile : MonoBehaviour
         {
             collision.gameObject.GetComponent<EnemyTankHealth>().takeDamage(20);
         }
+        Destroy(this.gameObject);
 
         
 

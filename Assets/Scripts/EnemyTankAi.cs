@@ -54,6 +54,7 @@ public class EnemyTankAI : MonoBehaviour
 
     void Start()
     {
+        playerTransform = FindFirstObjectByType<TankController>().transform;
         rb = GetComponent<Rigidbody>();
 
         if (turretTransform != null)
