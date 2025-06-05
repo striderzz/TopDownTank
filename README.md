@@ -1,6 +1,7 @@
 # Top Down Tank Controller
 
-![Gameplay Screenshot](screenshots/screenshot.png)
+![Screenshot (34)](https://github.com/user-attachments/assets/b2f7f04f-9c07-4e3f-8123-51c885bf394e)
+
 
 --
 
